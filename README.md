@@ -3,7 +3,7 @@
 
 ## 🪙 I’m currently working on
 - [**LightLeak**](https://lightleak.pro) - LightLeak - only safe leaks!
-- [**PaimonSoft**](https://fantasium.pl) - Temporarily Frozen project
+- [**PaimonSoft**](https://lightleak.pro) - Temporarily Frozen project
 
 ## 🔨 My Skills
 ### ⌨ Languages
