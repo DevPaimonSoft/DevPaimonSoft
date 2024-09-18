@@ -1,16 +1,30 @@
-## Hi there 👋
+# <p align="center">Hello traveler 👋</p>
+### <p align="center">I'm primarily Java Developer and Minecraft Developer! I'm also interested in Minecraft security and just security.</p>
 
-<!--
-**DevPaimonSoft/DevPaimonSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🪙 I’m currently working on
+- [**LightLeak**](https://lightleak.pro) - LightLeak - only safe leaks!
+- [**PaimonSoft**](https://fantasium.pl) - Temporarily Frozen project
 
-Here are some ideas to get you started:
+## 🔨 My Skills
+### ⌨ Languages
+- In which I feel comfortable:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=java,cpp,cs&theme=dark">
+
+- Others that I know:
+
+<img src="https://skillicons.dev/icons?i=html,js,python&theme=dark">
+
+### ⚙ Frameworks & Technologies
+<img src="https://skillicons.dev/icons?i=gradle,maven&theme=dark" alt="Frameworks and tools"/>
+
+## 📄 Github Stats
+
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api?username=DevPaimonSoft&show_icons=true&theme=midnight-purple"/></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
