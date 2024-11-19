@@ -4,6 +4,7 @@
 ## 🪙 I’m currently working on
 - [**LightLeak**](https://lightleak.pro) - LightLeak - only safe leaks!
 - [**PaimonSoft**](https://lightleak.pro) - Temporarily Frozen project
+- [**Sk3d.club**](https://discord.com/invite/sk3d) - Community for Reversers
 
 ## 🔨 My Skills
 ### ⌨ Languages
