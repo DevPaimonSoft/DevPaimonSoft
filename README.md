@@ -1,10 +1,10 @@
 # <p align="center">Hello traveler 👋</p>
-### <p align="center">I'm primarily Java Developer and Minecraft Developer! I'm also interested in Minecraft security and just security.</p>
+### <p align="center">I'm primarily a Java developer and Minecraft developer! I'm also interested in Minecraft security and security in general.</p>
 
 ## 🪙 I’m currently working on
 - [**LightLeak**](https://lightleak.pro) - LightLeak - only safe leaks!
-- [**PaimonSoft**](https://lightleak.pro) - Temporarily Frozen project
-- [**Sk3d.club**](https://discord.com/invite/sk3d) - Community for Reversers
+- [**PaimonSoft**](https://discord.gg/ZJF432dB8K) - Temporarily Frozen project
+- [**Sk3d.club**](https://discord.gg/ZJF432dB8K) - Community for Reversers
 
 ## 🔨 My Skills
 ### ⌨ Languages
@@ -18,6 +18,11 @@
 
 ### ⚙ Frameworks & Technologies
 <img src="https://skillicons.dev/icons?i=gradle,maven&theme=dark" alt="Frameworks and tools"/>
+
+## 👀 Visitors
+<p align="center">
+  <img src="https://count.getloli.com/get/@DevPaimonSoft?theme=original-new&darkmode=0"  alt=""/>
+</p>
 
 ## 📄 Github Stats
 
